@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=HengHuyLong&fontSize=40&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Vue+%7C+Laravel+%7C+Flutter;Writing+lines+of+code...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Welcome+to+HuyLong+GitHub)](https://git.io/typing-svg)
 
 [![Skills](https://skillicons.dev/icons?i=vue,js,ts,laravel,php,nodejs,flutter,dart,mysql,git,docker,python)](https://skillicons.dev)
 
