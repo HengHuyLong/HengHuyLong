@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6ec4,50:7873f5,100:4adede&height=220&section=header&text=HengHuyLong&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:7873f5,100:4adede&height=200&section=header&text=HengHuyLong&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn" />
 
 <a href="https://github.com/HengHuyLong">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=800&color=FF6EC4&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Welcome+to+HuyLong+GitHub+%E2%9C%A8" alt="Welcome to HuyLong GitHub" />
