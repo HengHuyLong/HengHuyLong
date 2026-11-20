@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HengHuyLong/HengHuyLong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=HengHuyLong&fontSize=40&fontAlignY=35" />
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Vue+%7C+Laravel+%7C+Flutter;Writing+lines+of+code...)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Skills](https://skillicons.dev/icons?i=vue,js,ts,laravel,php,nodejs,flutter,dart,mysql,git,docker,python)](https://skillicons.dev)
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HengHuyLong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HengHuyLong&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HengHuyLong&theme=tokyo-night&hide_border=true" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
