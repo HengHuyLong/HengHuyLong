@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:ff6ec4,50:7873f5,100:4adede&height=220&section=header&text=HengHuyLong&fontSize=60&animation=twinkling&strokeWidth=1&fontColor=ffffff&stroke=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:ff6ec4,50:7873f5,100:4adede&height=220&section=header&text=HengHuyLong&fontSize=60&animation=twinkling&strokeWidth=1&fontColor=24292f&stroke=24292f" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:ff6ec4%2C50:7873f5%2C100:4adede&height=220&section=header&text=HengHuyLong&fontSize=60&animation=twinkling&strokeWidth=1&fontColor=ffffff&stroke=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:ff6ec4%2C50:7873f5%2C100:4adede&height=220&section=header&text=HengHuyLong&fontSize=60&animation=twinkling&strokeWidth=1&fontColor=24292f&stroke=24292f" />
   <img alt="HengHuyLong" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6ec4,50:7873f5,100:4adede&height=220&section=header&text=HengHuyLong&fontSize=60&animation=twinkling&strokeWidth=1&fontColor=ffffff&stroke=ffffff" />
 </picture>
 
